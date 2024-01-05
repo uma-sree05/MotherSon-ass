@@ -1,0 +1,18 @@
+.contact-main-container{
+    background-color: #f2fafa;
+}
+.contact-container{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.contact-icon{
+    font-size: 40px;
+}
+.contact-txt{
+    color: gray;
+    text-align: center;
+    font-size: 15px;
+}
